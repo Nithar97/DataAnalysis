@@ -1,4 +1,4 @@
 ydata-profiling
-base64
+
 tempfile
 openpyxl
